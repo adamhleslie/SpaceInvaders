@@ -1,8 +1,3 @@
-/** 
-    Name: Adam Leslie
-    Eid: ahl552
-*/
-
 #include <iostream>
 #include "SpaceInvadersController.h"
 
